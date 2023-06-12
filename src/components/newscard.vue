@@ -1,6 +1,6 @@
 <template> 
       <div class="container mt-5">
-        <h1 class="text-center"> TIN TỨC - BÀI VIẾT MỚI </h1>
+        <h1 class="text-center"> TIN TỨC - BÀI VIẾT MỚI .. </h1>
         <div class="row justify-content-center">
             <div v-for="content in contents" :key="content.id" class="col-12 col-lg-4 col-md-6 mt-4" style="width: 20rem;">
                 <div class="card">
